@@ -16,7 +16,6 @@ Website **reservasi homestay berbasis PHP & MySQL** untuk memudahkan pengunjung 
 
 * PHP
 * MySQL
-* HTML & CSS
 * JavaScript
 * XAMPP
 
