@@ -1,0 +1,3 @@
+<?php require_once '../config/functions.php'; require_admin(); ?>
+<!doctype html><html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Admin BinangunHomestay</title><link rel="stylesheet" href="../assets/css/style.css"></head>
+<body><header class="adminbar"><div class="container nav-inner"><a class="brand" href="dashboard.php">BinangunHomestay Admin</a><nav><a href="dashboard.php">Dashboard</a><a href="homestay.php">Homestay</a><a href="booking.php">Booking</a><a href="logout.php">Logout</a></nav></div></header><main class="section"><div class="container">
