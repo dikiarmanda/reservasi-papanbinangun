@@ -34,6 +34,6 @@ http://localhost/homestay_booking_lengkap/
 
 ## 👨‍💻 Developer
 
-**BinangunHomestay**
+Team pmm binangun2026
 
 © 2026 BinangunHomestay
